@@ -1,2 +1,2 @@
-Aluno: Vitor Badin 1º semestre
-Atividade avaliativa final jogo 2d
+Jogo Piano Tiles desenvolvido em pygame
+
